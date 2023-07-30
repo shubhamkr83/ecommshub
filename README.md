@@ -1,8 +1,23 @@
-# React + Vite
+# React E-commerce Page
+<p>This is react single page e-commerce application</p>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Features:-
+<li>Search Product</li>
+<li>Filter Product from price highest and lowest</li>
+<li>Filter Product by Category</li>
+<li>Clear the filters</li>
 
-Currently, two official plugins are available:
+# Live:- https://ecommshub.netlify.app
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<h2>Installition Process:-</h2>
+<h4>Step1:- Clone this repo or download the zip file:- </h4>
+  
+<h4>Step2:- Run this command to install all the dependencies:- <code> yarn </code>  </h4>
+
+<h4>Step3:- Run this command to start the app:- <code> yarn dev </code> </h4>
+
+<h2>To deploy the app:-</h2>
+<h4>Step1:- Run this command to create a build folder:- <code> yarn build </code></h4>
+<h4>Step2:- Create an account on Netlify website</h4>
+<h4>Step3:- Drag and drop build folder to Netlify deploy section</h4>
+
