@@ -21,3 +21,9 @@
 <h4>Step2:- Create an account on Netlify website</h4>
 <h4>Step3:- Drag and drop build folder to Netlify deploy section</h4>
 
+# Screenshots
+
+![Screenshot (456)](https://github.com/shubhamkr83/ecommshub/assets/72254047/dd4de03e-aedb-426b-8c5e-6424440e55e8)
+
+
+![Screenshot (457)](https://github.com/shubhamkr83/ecommshub/assets/72254047/1df54b9f-e1a9-4c62-a641-a3ad02d91d34)
